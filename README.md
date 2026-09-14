@@ -25,20 +25,20 @@ Implementations, notes, and projects focused on **Large Language Models**, Trans
 
 ## 📚 Learning Path Overview for Modern AI & LLMs
 
-### Phase 1: Transformers & Attention
-- Scaled Dot-Product Attention
-- Multi-Head Attention
-- Transformer Decoder Block
-- Tiny GPT from Scratch
+### Phase 1: [Transformers & Attention](https://github.com/S33mi/modern-ai-llm-journey/tree/main/01_attention_transformers)
+- [Scaled Dot-Product Attention](https://github.com/S33mi/modern-ai-llm-journey/blob/main/01_attention_transformers/01_scaled_dot_product_attention.ipynb)
+- [Multi-Head Attention](https://github.com/S33mi/modern-ai-llm-journey/blob/main/01_attention_transformers/02_multi_head_attention.ipynb)
+- [Transformer Decoder Block](https://github.com/S33mi/modern-ai-llm-journey/blob/main/01_attention_transformers/03_transformer_block.ipynb)
+- [Tiny GPT from Scratch](https://github.com/S33mi/modern-ai-llm-journey/blob/main/01_attention_transformers/04_tiny_gpt_from_scratch.ipynb)
 
-### Phase 2: Hugging Face Ecosystem
-- Loading pretrained models & tokenizers
-- Pipelines and text generation
-- Embeddings and feature extraction
+### Phase 2: [Hugging Face Ecosystem](https://github.com/S33mi/modern-ai-llm-journey/tree/main/02_huggingface_basics)
+- [Loading pretrained models & tokenizers](https://github.com/S33mi/modern-ai-llm-journey/blob/main/02_huggingface_basics/01_loading_models_and_tokenizers.ipynb)
+- [Pipelines and text generation](https://github.com/S33mi/modern-ai-llm-journey/blob/main/02_huggingface_basics/02_pipelines_and_generation.ipynb)
+- [Embeddings and feature extraction](https://github.com/S33mi/modern-ai-llm-journey/blob/main/02_huggingface_basics/03_embeddings_and_feature_extraction.ipynb)
 
-### Phase 3: Fine-tuning
-- Full Fine-tuning
-- LoRA Fine-tuning
+### Phase 3: [Fine-tuning](https://github.com/S33mi/modern-ai-llm-journey/tree/main/03_finetuning)
+- [Full Fine-tuning](https://github.com/S33mi/modern-ai-llm-journey/blob/main/03_finetuning/01_full_finetuning.ipynb)
+- [LoRA Fine-tuning](https://github.com/S33mi/modern-ai-llm-journey/blob/main/03_finetuning/02_lora_finetuning.ipynb)
 - QLoRA + Instruction Tuning
 
 ### Phase 4: RAG Systems
