@@ -39,12 +39,12 @@ Implementations, notes, and projects focused on **Large Language Models**, Trans
 ### Phase 3: [Fine-tuning](https://github.com/S33mi/modern-ai-llm-journey/tree/main/03_finetuning)
 - [Full Fine-tuning](https://github.com/S33mi/modern-ai-llm-journey/blob/main/03_finetuning/01_full_finetuning.ipynb)
 - [LoRA Fine-tuning](https://github.com/S33mi/modern-ai-llm-journey/blob/main/03_finetuning/02_lora_finetuning.ipynb)
-- QLoRA + Instruction Tuning
+- [QLoRA + Instruction Tuning](https://github.com/S33mi/modern-ai-llm-journey/blob/main/03_finetuning/03_qlora_instruction_tuning.ipynb)
 
-### Phase 4: RAG Systems
-- Document chunking & embeddings
-- Vector stores (FAISS / Chroma)
-- Basic and Advanced RAG pipelines
+### Phase 4: [RAG Systems](https://github.com/S33mi/modern-ai-llm-journey/tree/main/04_rag_systems)
+- [Document chunking & embeddings](https://github.com/S33mi/modern-ai-llm-journey/blob/main/04_rag_systems/01_chunking_embeddings_vectorstore.ipynb)
+- [Vector stores (FAISS / Chroma)](https://github.com/S33mi/modern-ai-llm-journey/blob/main/04_rag_systems/01_chunking_embeddings_vectorstore.ipynb)
+- [Basic](https://github.com/S33mi/modern-ai-llm-journey/blob/main/04_rag_systems/02_basic_rag_pipeline.ipynb) and [Advanced RAG pipelines](https://github.com/S33mi/modern-ai-llm-journey/blob/main/04_rag_systems/03_advanced_rag_reranking.ipynb)
 
 ### Phase 5: AI Agents
 - ReAct Agent from scratch
