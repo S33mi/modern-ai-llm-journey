@@ -46,9 +46,9 @@ Implementations, notes, and projects focused on **Large Language Models**, Trans
 - [Vector stores (FAISS / Chroma)](https://github.com/S33mi/modern-ai-llm-journey/blob/main/04_rag_systems/01_chunking_embeddings_vectorstore.ipynb)
 - [Basic](https://github.com/S33mi/modern-ai-llm-journey/blob/main/04_rag_systems/02_basic_rag_pipeline.ipynb) and [Advanced RAG pipelines](https://github.com/S33mi/modern-ai-llm-journey/blob/main/04_rag_systems/03_advanced_rag_reranking.ipynb)
 
-### Phase 5: AI Agents
-- ReAct Agent from scratch
-- Tool Calling Agents
+### Phase 5: [AI Agents](https://github.com/S33mi/modern-ai-llm-journey/tree/main/05_agents)
+- [ReAct Agent from scratch](https://github.com/S33mi/modern-ai-llm-journey/blob/main/05_agents/01_react_agent_from_scratch.ipynb)
+- [Tool Calling Agents](https://github.com/S33mi/modern-ai-llm-journey/blob/main/05_agents/02_tool_calling_agent.ipynb)
 
 ### Phase 6: Projects
 - RAG over personal lecture notes
