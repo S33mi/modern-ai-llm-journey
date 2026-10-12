@@ -129,7 +129,8 @@ Many notebooks auto-detect CUDA and fall back to CPU-sized models.
 | Repo  | Role   |
 |-------|--------|
 | [machine-learning-journey](https://github.com/S33mi/machine-learning-journey) | MPhil CS-567 / CS-667 implementations (MATLAB & Python) 
-| [paper-reimplementations](https://github.com/S33mi/paper-reimplementations) | Paper reimplementations|
+| [paper-reimplementations](https://github.com/S33mi/paper-reimplementations) | Paper reimplementations during my PhD |
+| [capbencher-reproduction](https://github.com/S33mi/capbencher-reproduction) | Reproducing CapBencher (ICML 2026) — built-in alarm for LLM benchmark contamination |
 
 ---
 
